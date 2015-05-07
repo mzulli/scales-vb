@@ -1,0 +1,3 @@
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\obj\Release\Songwriter_Project.frmMain.resources
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\obj\Release\Songwriter_Project.Resources.resources
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\obj\Release\Songwriter Project.vbproj.GenerateResource.Cache

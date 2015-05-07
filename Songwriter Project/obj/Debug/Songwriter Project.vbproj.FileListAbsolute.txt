@@ -1,0 +1,10 @@
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\bin\Debug\Songwriter Project.exe.config
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\bin\Debug\Songwriter Project.exe
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\bin\Debug\Songwriter Project.pdb
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\bin\Debug\Songwriter Project.xml
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\obj\Debug\Songwriter_Project.frmMain.resources
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\obj\Debug\Songwriter_Project.Resources.resources
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\obj\Debug\Songwriter Project.vbproj.GenerateResource.Cache
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\obj\Debug\Songwriter Project.exe
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\obj\Debug\Songwriter Project.xml
+C:\Users\michelle\Documents\school\Visual Basic\assignments\Songwriter\Songwriter Project\obj\Debug\Songwriter Project.pdb
